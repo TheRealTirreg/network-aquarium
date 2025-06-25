@@ -1,0 +1,8 @@
+Affichage/bin/
+Affichage/lib/
+Controleur/bin/
+
+*.log
+
+javafx-sdk/
+
