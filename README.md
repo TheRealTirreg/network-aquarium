@@ -2,10 +2,11 @@
 
 This networking project was a group project in my exchange in Bordeaux, France.
 
-The main goal was to create a master-slave-architecture where the master (contrôleur)
-was supposed to be written in C, whereas the slave was written in Java using JavaFX.
+The main goal was to create an aquarium simulation with one server and multiple clients.
 
-We had to stick closely to the specifications of the project.
+We had to stick closely to the specifications of the project. We needed to have a master-slave-architecture where the master (contrôleur)
+was supposed to be written in C, whereas the slave was written in Java using JavaFX. All required commands were given as well.
+It was up to our group to come up with a specific protocol, thread pools, mutexes, etc.
 
 ![make small: four windows on one computer](image.png)
 
