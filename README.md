@@ -1,6 +1,6 @@
 # Projet de réseaux
 
-This networking project was created in my exchange in Bordeaux, France.
+This networking project was a group project in my exchange in Bordeaux, France.
 
 The main goal was to create a master-slave-architecture where the master (contrôleur)
 was supposed to be written in C, whereas the slave was written in Java using JavaFX.
