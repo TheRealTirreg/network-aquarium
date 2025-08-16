@@ -39,10 +39,12 @@ We had to stick closely to the specifications of the project.
 
 ## Contrôleur
 
+- `cd Controleur`
 - `make`
 - Ensuite, charger un aquarium stocké dans `Controleur/aquariums`
 
 ## Affichage
 
+- `cd Affichage`
 - `make` pour afficher en plein écran
 - `make small` pour afficher plusieures affichages sur un écran
